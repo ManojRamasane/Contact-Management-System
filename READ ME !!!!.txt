@@ -1,0 +1,14 @@
+CONTACT MANAGEMENT SYSTEM - PYTHON
+
+
+- THANKS TO Manoj Ramasane
+
+- To insert contact : Click on Add
+  To delete a contact first select it and click on delete
+  To update a contact double click on it
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+THANK YOU FOR DOWNLOADING :) 
